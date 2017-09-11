@@ -8,8 +8,8 @@
 
 **References**: I used the Unity Documentation on Unity3d.com, and I also used Stack Overflow. I used some assets such as the background from the Unity asset store.
 
-**Contributions**: I made this game with C# from scratch. Although I followed the tutorial, I customized the gameplay of my own game through the scripts that I used and by making my own menu and play again buttons for my own game. I also customized the trail effect of the ball in my game.
+**Contributions**: I made this game with C# from scratch. Although I followed the tutorial, I customized the gameplay of my own game through the scripts that I made and by making my own menu and play again buttons for my own game. I also customized the trail effect of the ball in my game.
 
-**What I learned**: I learned that Unity3d has excellent documentation and that it can be take time to make a quality game. I realized that having a graphic designer on a real life team in the gaming industry can be very valuable. I also learned that using Unity is a valuable skill in the computer science field of study because many companies and software developers in general these days use various frameworks that are in some sense similar to Unity to get the job done.
+**What I learned**: I learned that Unity3d has excellent documentation and that it can be take time to make a quality game. I realized that having a graphic designer on a real life team in the gaming industry can be very valuable. I also learned that using Unity is a valuable skill in the computer science field of study because many companies and software developers in general these days use various frameworks that are in some sense similar to Unity to get the job done. I learned that prefabs are a great tool for editing a number of similar objects in your game at the same time as well.
 
 **Potential Future Improvements**: Some things I could improve in my game are the buttons and even the gameplay. I could add more obstacles in my game and even artificially intelligent game bots.
